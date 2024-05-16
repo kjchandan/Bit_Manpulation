@@ -16,9 +16,8 @@ public class check_pow_of_2 {
 		} else {
 			System.out.println("false");
 		}
+		scan.close();
 		
-		
-		scan.nextInt();
 	}
 
 }
